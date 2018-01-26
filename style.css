@@ -2956,7 +2956,6 @@ background-color: #ededed;
   justify-content:center;
   align-content:center;
   position: relative;
-  border: 1px solid #000;
   background-color: gold;
 }
 .item1 {grid-area: one;}

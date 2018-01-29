@@ -3008,7 +3008,7 @@ transition: background-size 0.5s ease-in;
 }
 .taxonomyContainer:hover>.gridTitle>.taxonomyShowOnHover{
   display:block;
-  height: 189px;
+  height: 190px;
 }
 .taxonomyContainer:hover>.gridTitle p{
   padding-bottom: 30px;
